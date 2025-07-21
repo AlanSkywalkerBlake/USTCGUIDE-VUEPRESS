@@ -10,3 +10,5 @@
 
 提交的 Markdown 文件原则上应该满足 markdownlint 规范（美观、便于操作）。
 可以通过 **使用 Typora 编辑器** 或 **使用 VSCode 中的 markdownlint 拓展** 来保证满足标准。
+
+如果你想实时预览网页的效果，可以通过在本地进行 dev 来实时预览。确保你的电脑安装了 npm 和 node.js，在仓库目录执行 npm install 和 npm run docs:dev，进入终端显示的地址即可实现开发预览。
